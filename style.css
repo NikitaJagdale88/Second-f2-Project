@@ -1,0 +1,112 @@
+
+.topnav{
+    color: black;
+    overflow: hidden;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 30000;
+    font-size: 15px;
+}
+
+.topnav-right {
+    color: black;
+    float: right;
+    font-family: 'Montserrat';
+    font-style: normal;
+  }
+
+  .topnav a {
+    float: left;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+header{
+    background-color: #FCAF02;
+}
+
+.body1{
+    background-color: black;
+}
+
+
+.section1{
+   color: white;
+   margin: 50px;
+}
+
+.button1{
+   color: black;
+   background-color: #FCAF02;
+   position: absolute;
+   width: 150px;
+   height: 40px;
+   border-radius:400px;
+   font-family: 'Montserrat';
+   font-style: normal;
+}
+
+.img1{
+    width: 497px;
+    height: 252px;
+}
+
+
+
+.input3{
+    display: flex;
+    gap: 10px;
+    width: 550px;
+
+}
+
+input{
+    background-color: transparent;
+    border: 2px solid #FCAF02;
+    border-radius: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 20px ;
+    line-height: 34px;
+    width: 1100px;
+    height: 35px; 
+}
+
+input::placeholder{
+    color: #FCAF02;
+}
+
+
+
+.button2{
+    align-items: center;
+    color: black;
+    background-color: #FCAF02;
+    min-width: 150px;
+    height: 40px;
+    border-radius:400px;
+    font-family:Montserrat;
+    font-style: normal;
+    margin-left: 500px;
+    
+ }
+
+ .section3{
+     color: #FCAF02;
+ }
+
+ table{
+   size: 400px;
+    border: #FCAF02;
+    align-items: center;
+    width: 1200px;
+    height:500px;
+ }
+
+ .none{
+    color: black;
+    background-color: #FCAF02;
+ }
